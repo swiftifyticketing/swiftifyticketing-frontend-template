@@ -21,7 +21,9 @@
   }
   
   .nav-item a:hover {
-    color: #4f49b9;
+    color: #000003;
     text-decoration: none;
     transition: color 0.2s linear;
   }
+
+  
