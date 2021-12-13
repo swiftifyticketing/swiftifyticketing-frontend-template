@@ -21,16 +21,20 @@
   }
   
   .nav-item a:hover {
-    color: #4f49b9;
+    color: #000003;
     text-decoration: none;
     transition: color 0.2s linear;
   }
 
-.form-box {
-position: absolute;
-top: 35vh;
-background: #fff;
-padding: 10px 50px 20px;
-border-radius: 10px;
-box-shadow: 0px 0px 1px 0px 
-}
+
+  .form-box {
+    position: absolute;
+    top: 35vh;
+    background: #fff;
+    padding: 10px 50px 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 1px 0px 
+ }
+
+  
+
